@@ -7,7 +7,7 @@ FOV =
 
 PlayerHealth = 0x430
 PlayerArmour = 0x434
-PlayerWantedLevel = 0x18 + 7A8 
+PlayerWantedLevel = 
 PlayerSpeed = 
 
 
