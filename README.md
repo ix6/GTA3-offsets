@@ -6,10 +6,14 @@ LocalPlayer = "LibertyCity.exe"+04D9FB48
 FOV = 
 GameSpeed = LibertyCity.exe+5042F50
 
+
 PlayerMoney = LibertyCity.exe+516E158 
 PlayerHealth = 0x430
 PlayerArmour = 0x434
 PlayerWantedLevel = PointerChain "LibertyCity.exe"+053D7078 + 0x18 , 0x490 , 0x20
+CarSpeedX = 0x118
+CarSpeedY = 0x114
+CarSpeedZ =  0x11C
 PlayerSpeed = 
 AngleX = 
 AngleY = 
