@@ -51,7 +51,14 @@ GunAmmo2 = 0x5FC
 
 Rocket Launcher = 
 WeaponID = 8
-GunAmmo = 0x
+GunAmmo = 0x618
 GunAmmo2 = 0x61C
+
+Flame Thrower = 
+WeaponID = 9
+GunAmmo = 0x638
+GunAmmo2 = 0x63C
+
+
 
 FireFighterMissionTime = LibertyCity.exe+4FD1A34
