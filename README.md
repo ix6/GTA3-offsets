@@ -34,17 +34,17 @@ WeaponID = 4
 GunAmmo = 0x598
 GunAmmo2 = 0x59C
 
-AK47 = 
+AK47 = 0x5B0
 WeaponID = 5
 GunAmmo = 0x5B8
 GunAmmo2 = 0x5BC
 
-M16 = 
+M16 = 0x5D0
 WeaponID = 6
 GunAmmo = 0x5D8
 GunAmmo2 = 0x5DC
 
-Sniper = 
+Sniper = 0x5F0
 WeaponID = 7
 GunAmmo = 0x5F8
 GunAmmo2 = 0x5FC
@@ -59,9 +59,15 @@ WeaponID = 9
 GunAmmo = 0x638
 GunAmmo2 = 0x63C
 
-Grenades = 0x690 
-
 Molotoves = 0x650
+WeaponID = 
+GunAmmo = 0x
+GunAmmo2 = 0x65C
+
+Grenades = 0x690 
+WeaponID = 0x658
+GunAmmo = 0x678
+GunAmmo2 = 0x67C
 
 Melee = 0x530
 
