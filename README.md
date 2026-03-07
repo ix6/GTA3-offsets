@@ -60,12 +60,12 @@ GunAmmo = 0x638
 GunAmmo2 = 0x63C
 
 Molotoves = 0x650
-WeaponID = 
-GunAmmo = 0x
+WeaponID = 10
+GunAmmo = 0x658
 GunAmmo2 = 0x65C
 
 Grenades = 0x690 
-WeaponID = 0x658
+WeaponID = 11
 GunAmmo = 0x678
 GunAmmo2 = 0x67C
 
