@@ -3,7 +3,6 @@ GTA III - The Definitive Edition, Version 1
 ```
 Base Adress = "LibertyCity.exe"
 LocalPlayer = "LibertyCity.exe"+04D9FB48
-FOV = 
 GameSpeed = LibertyCity.exe+5042F50
 
 
@@ -14,10 +13,6 @@ PlayerWantedLevel = PointerChain "LibertyCity.exe"+053D7078 + 0x18 , 0x490 , 0x2
 CarSpeedX = 0x118
 CarSpeedY = 0x114
 CarSpeedZ =  0x11C
-PlayerSpeed = 
-AngleX = 
-AngleY = 
-AngleZ = 
 PositonX = 0x3C
 PositionY = 0x38
 PositionZ = 0x40
